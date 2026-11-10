@@ -1,0 +1,15 @@
+{
+  "id": "ujjwalprakashts/cs781-phase2-exp4-prefixtune",
+  "title": "cs781-phase2-exp4-prefixtune",
+  "code_file": "cs781-phase2-exp4-prefixtune.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "ujjwalprakashts/cs781-phase1-m3-ckpt2500"
+  ]
+}

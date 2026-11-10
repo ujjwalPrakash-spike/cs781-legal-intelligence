@@ -1,0 +1,15 @@
+{
+  "id": "ujjwalprakashgoodgod/cs781-phase1-model2-rope-llama",
+  "title": "cs781-phase1-model2-rope-llama",
+  "code_file": "cs781-phase1-model2-rope-llama.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "ujjwalprakashgoodgod/cs781-phase1-m2-ckpt2500"
+  ]
+}

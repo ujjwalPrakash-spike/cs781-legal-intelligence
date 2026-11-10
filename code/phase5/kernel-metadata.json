@@ -1,0 +1,17 @@
+{
+  "id": "ujjwalprakashts/kaggle-phase5-exp2",
+  "title": "kaggle-phase5-exp2",
+  "code_file": "cs781-phase5-exp2-layerwise.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "ujjwalprakashts/cs781-phase1-m3-ckpt2500"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
